@@ -1,5 +1,3 @@
-# 实验一
-
 ![image-20220414143224967](README.assets/image-20220414143224967.png)
 
 测试AndroidStudio
