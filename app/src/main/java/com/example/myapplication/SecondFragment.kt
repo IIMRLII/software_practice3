@@ -38,6 +38,7 @@ class SecondFragment : Fragment() {
             findNavController().navigate(R.id.action_SecondFragment_to_FirstFragment)
         }
 
+
         val showTextView = view.findViewById<TextView>(R.id.textview_word)
 //        val count = arguments?.getString("int")?.toInt()
         val count = arguments?.let { FirstFragmentArgs.fromBundle(it).num }
