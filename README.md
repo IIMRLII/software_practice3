@@ -26,17 +26,17 @@
 
 在导航视图中设置参数并build，生成参数文件
 
-![image-20220429191741838](README.assets/image-20220429191741838.png)
+![image-20220429193631321](README.assets/image-20220429193631321.png)
 
-![image-20220429191812844](README.assets/image-20220429191812844.png)
+![image-20220429193644244](README.assets/image-20220429193644244.png)
 
 在第一个页面中使用safeargs进行数据传输
 
-![image-20220429191614250](README.assets/image-20220429191614250.png)
+![image-20220429193655439](README.assets/image-20220429193655439.png)
 
 设置第二个页面的代码，接收并显示数据，设置随机数
 
-![image-20220429191714445](README.assets/image-20220429191714445.png)
+![image-20220429193705941](README.assets/image-20220429193705941.png)
 
 效果展示
 
