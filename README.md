@@ -43,3 +43,29 @@
 ![image-20220421224848479](README.assets/image-20220421224848479.png)
 
 ![image-20220421224856520](README.assets/image-20220421224856520.png)
+
+# 实验三
+
+先按照CSDN中步骤下载并build相应文件
+
+![image-20220505151910909](README.assets/image-20220505151910909.png)
+
+添加对应识别代码
+
+![image-20220505151940107](README.assets/image-20220505151940107.png)
+
+安装到真机
+
+<img src="README.assets/image-20220505152213577.png" alt="image-20220505152213577" style="zoom: 33%;" />
+
+给予权限
+
+<img src="README.assets/image-20220505152227198.png" alt="image-20220505152227198" style="zoom:33%;" />
+
+识别对应花卉
+
+<img src="README.assets/image-20220505152238123.png" alt="image-20220505152238123" style="zoom:33%;" />
+
+<img src="README.assets/image-20220505152247059.png" alt="image-20220505152247059" style="zoom:33%;" />
+
+<img src="README.assets/image-20220505152254557.png" alt="image-20220505152254557" style="zoom:33%;" />
